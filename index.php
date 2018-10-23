@@ -1,5 +1,6 @@
 <?php
-echo "小瘪三们，你们好啊";
+$name = '朱斐瑶';
+echo $name . ".I love you";
 
 
 
