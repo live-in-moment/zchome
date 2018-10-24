@@ -6,5 +6,6 @@ echo "<br>";
 
 echo "who is I and who is dong";
 
-
 echo "<br>";
+
+echo $name . " is a pig";
